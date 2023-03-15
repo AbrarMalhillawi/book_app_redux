@@ -80,7 +80,7 @@ const handleSubmit = async (e) => {
 </div>
 
 <div className='content' style={{marginLeft:'150px',marginRight:'-200px',marginTop:'60px',width:'40%'}}>
-  <h1 style={{color:'black',textAlign:'center'}}> Why BookHub?</h1>
+  <h1 style={{color:'black',textAlign:'center'}}> Why Bookboon?</h1>
   <p  style={{textAlign:'center'}}> BookBub is a free service that helps millions of readers discover books they'll love  while providing publishers and authors with a way to drive sales and find new fans.<br/> BookBub features books ranging from top-tier publishers to critically acclaimed independent authors. Our experts ensure that we're only featuring great deals on quality books you'll love  <br/><br/> </p>
   <img src={Img}  alt='boookhub' className='img'/>
      </div>
